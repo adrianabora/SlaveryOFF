@@ -16,3 +16,6 @@ menu: [
 {'name': 'Introduction', 'pagename': 'index'},
 {'name': 'Data collectionn', 'pagename': 'data collection'},
 ]
+
+
+git config --get remote.origin.url
