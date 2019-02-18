@@ -1,0 +1,18 @@
+theme: jekyll-theme-cayman
+title: SlaveryOFF
+description: According to the Global Slavery Index, 40 million people are still enslaved today, 25 millions of them being in forced labor.
+
+While this remains an alarming trend, evidence shows that consumers worldwide are unconsciously buying products at risk of being made under forced labor conditions. 
+
+We propose SlaveryOFF, an application that will help us, the  consumers, to make informed purchases, by assessing the risk  of forced labor in supply chains.
+
+We are hoping to use your input in designing this app and make it as useful and easy to use as possible. 
+
+Thank you very much in advance, 
+
+Adriana and Andres 
+
+menu: [
+{'name': 'Introduction', 'pagename': 'index'},
+{'name': 'Data collectionn', 'pagename': 'data collection'},
+]
